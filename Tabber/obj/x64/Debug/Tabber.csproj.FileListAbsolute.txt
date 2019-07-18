@@ -1,0 +1,15 @@
+C:\Users\TaylorJ\Desktop\Tabber\Tabber\bin\x64\Debug\Tabber.exe.config
+C:\Users\TaylorJ\Desktop\Tabber\Tabber\bin\x64\Debug\Tabber.exe
+C:\Users\TaylorJ\Desktop\Tabber\Tabber\bin\x64\Debug\Tabber.pdb
+C:\Users\TaylorJ\Desktop\Tabber\Tabber\obj\x64\Debug\Tabber.frmEditFreq.resources
+C:\Users\TaylorJ\Desktop\Tabber\Tabber\obj\x64\Debug\Tabber.frmTab.resources
+C:\Users\TaylorJ\Desktop\Tabber\Tabber\obj\x64\Debug\Tabber.Properties.Resources.resources
+C:\Users\TaylorJ\Desktop\Tabber\Tabber\obj\x64\Debug\Tabber.csproj.GenerateResource.cache
+C:\Users\TaylorJ\Desktop\Tabber\Tabber\obj\x64\Debug\Tabber.csproj.CoreCompileInputs.cache
+C:\Users\TaylorJ\Desktop\Tabber\Tabber\obj\x64\Debug\Tabber.exe
+C:\Users\TaylorJ\Desktop\Tabber\Tabber\obj\x64\Debug\Tabber.pdb
+C:\Users\TaylorJ\Desktop\Tabber\Tabber\bin\x64\Debug\Tabber.exe.manifest
+C:\Users\TaylorJ\Desktop\Tabber\Tabber\bin\x64\Debug\Tabber.application
+C:\Users\TaylorJ\Desktop\Tabber\Tabber\obj\x64\Debug\Tabber.exe.manifest
+C:\Users\TaylorJ\Desktop\Tabber\Tabber\obj\x64\Debug\Tabber.application
+C:\Users\TaylorJ\Desktop\Tabber\Tabber\obj\x64\Debug\Tabber.csprojAssemblyReference.cache

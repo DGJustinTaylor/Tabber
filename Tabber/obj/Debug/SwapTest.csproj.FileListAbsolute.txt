@@ -1,0 +1,22 @@
+C:\Users\TaylorJ\Desktop\SwapTest\SwapTest\bin\Debug\SwapTest.exe.config
+C:\Users\TaylorJ\Desktop\SwapTest\SwapTest\bin\Debug\SwapTest.exe
+C:\Users\TaylorJ\Desktop\SwapTest\SwapTest\bin\Debug\SwapTest.pdb
+C:\Users\TaylorJ\Desktop\SwapTest\SwapTest\obj\Debug\SwapTest.csprojAssemblyReference.cache
+C:\Users\TaylorJ\Desktop\SwapTest\SwapTest\obj\Debug\SwapTest.Properties.Resources.resources
+C:\Users\TaylorJ\Desktop\SwapTest\SwapTest\obj\Debug\SwapTest.csproj.GenerateResource.cache
+C:\Users\TaylorJ\Desktop\SwapTest\SwapTest\obj\Debug\SwapTest.csproj.CoreCompileInputs.cache
+C:\Users\TaylorJ\Desktop\SwapTest\SwapTest\obj\Debug\SwapTest.exe
+C:\Users\TaylorJ\Desktop\SwapTest\SwapTest\obj\Debug\SwapTest.pdb
+C:\Users\TaylorJ\Desktop\SwapTest\SwapTest\obj\Debug\SwapTest.frmTab.resources
+C:\Users\TaylorJ\Desktop\SwapTest\SwapTest\obj\Debug\SwapTest.frmEditFreq.resources
+C:\Users\TaylorJ\Desktop\SwapTest - Copy\SwapTest\bin\Debug\SwapTest.exe.config
+C:\Users\TaylorJ\Desktop\SwapTest - Copy\SwapTest\bin\Debug\SwapTest.exe
+C:\Users\TaylorJ\Desktop\SwapTest - Copy\SwapTest\bin\Debug\SwapTest.pdb
+C:\Users\TaylorJ\Desktop\SwapTest - Copy\SwapTest\obj\Debug\SwapTest.csprojAssemblyReference.cache
+C:\Users\TaylorJ\Desktop\SwapTest - Copy\SwapTest\obj\Debug\SwapTest.frmEditFreq.resources
+C:\Users\TaylorJ\Desktop\SwapTest - Copy\SwapTest\obj\Debug\SwapTest.frmTab.resources
+C:\Users\TaylorJ\Desktop\SwapTest - Copy\SwapTest\obj\Debug\SwapTest.Properties.Resources.resources
+C:\Users\TaylorJ\Desktop\SwapTest - Copy\SwapTest\obj\Debug\SwapTest.csproj.GenerateResource.cache
+C:\Users\TaylorJ\Desktop\SwapTest - Copy\SwapTest\obj\Debug\SwapTest.csproj.CoreCompileInputs.cache
+C:\Users\TaylorJ\Desktop\SwapTest - Copy\SwapTest\obj\Debug\SwapTest.exe
+C:\Users\TaylorJ\Desktop\SwapTest - Copy\SwapTest\obj\Debug\SwapTest.pdb

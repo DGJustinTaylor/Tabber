@@ -1,0 +1,10 @@
+C:\Users\TaylorJ\Desktop\Tabber\Tabber\bin\x64\Release\Tabber.exe.config
+C:\Users\TaylorJ\Desktop\Tabber\Tabber\bin\x64\Release\Tabber.exe
+C:\Users\TaylorJ\Desktop\Tabber\Tabber\bin\x64\Release\Tabber.pdb
+C:\Users\TaylorJ\Desktop\Tabber\Tabber\obj\x64\Release\Tabber.frmEditFreq.resources
+C:\Users\TaylorJ\Desktop\Tabber\Tabber\obj\x64\Release\Tabber.frmTab.resources
+C:\Users\TaylorJ\Desktop\Tabber\Tabber\obj\x64\Release\Tabber.Properties.Resources.resources
+C:\Users\TaylorJ\Desktop\Tabber\Tabber\obj\x64\Release\Tabber.csproj.GenerateResource.cache
+C:\Users\TaylorJ\Desktop\Tabber\Tabber\obj\x64\Release\Tabber.csproj.CoreCompileInputs.cache
+C:\Users\TaylorJ\Desktop\Tabber\Tabber\obj\x64\Release\Tabber.exe
+C:\Users\TaylorJ\Desktop\Tabber\Tabber\obj\x64\Release\Tabber.pdb

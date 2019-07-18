@@ -1,0 +1,38 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27703.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Tabber", "Tabber\Tabber.csproj", "{BE317432-8030-4C28-9846-F7287DD05494}"
+EndProject
+Project("{54435603-DBB4-11D2-8724-00A0C9A8B90C}") = "SetupTabber", "SetupTabber\SetupTabber.vdproj", "{305A7EA3-287E-4643-95BB-BB825C899553}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Debug|x64 = Debug|x64
+		Release|Any CPU = Release|Any CPU
+		Release|x64 = Release|x64
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{BE317432-8030-4C28-9846-F7287DD05494}.Debug|Any CPU.ActiveCfg = Release|Any CPU
+		{BE317432-8030-4C28-9846-F7287DD05494}.Debug|Any CPU.Build.0 = Release|Any CPU
+		{BE317432-8030-4C28-9846-F7287DD05494}.Debug|x64.ActiveCfg = Debug|x64
+		{BE317432-8030-4C28-9846-F7287DD05494}.Debug|x64.Build.0 = Debug|x64
+		{BE317432-8030-4C28-9846-F7287DD05494}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BE317432-8030-4C28-9846-F7287DD05494}.Release|Any CPU.Build.0 = Release|Any CPU
+		{BE317432-8030-4C28-9846-F7287DD05494}.Release|x64.ActiveCfg = Release|x64
+		{BE317432-8030-4C28-9846-F7287DD05494}.Release|x64.Build.0 = Release|x64
+		{305A7EA3-287E-4643-95BB-BB825C899553}.Debug|Any CPU.ActiveCfg = Release
+		{305A7EA3-287E-4643-95BB-BB825C899553}.Debug|Any CPU.Build.0 = Release
+		{305A7EA3-287E-4643-95BB-BB825C899553}.Debug|x64.ActiveCfg = Debug
+		{305A7EA3-287E-4643-95BB-BB825C899553}.Release|Any CPU.ActiveCfg = Release
+		{305A7EA3-287E-4643-95BB-BB825C899553}.Release|x64.ActiveCfg = Release
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {22F0A38A-F035-4E3B-9B0F-F79A5193FB1A}
+	EndGlobalSection
+EndGlobal

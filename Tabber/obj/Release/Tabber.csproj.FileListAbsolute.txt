@@ -1,0 +1,16 @@
+C:\Users\TaylorJ\Desktop\Tabber\Tabber\bin\Release\Tabber.exe.config
+C:\Users\TaylorJ\Desktop\Tabber\Tabber\bin\Release\Tabber.exe.manifest
+C:\Users\TaylorJ\Desktop\Tabber\Tabber\bin\Release\Tabber.application
+C:\Users\TaylorJ\Desktop\Tabber\Tabber\bin\Release\Tabber.exe
+C:\Users\TaylorJ\Desktop\Tabber\Tabber\bin\Release\Tabber.pdb
+C:\Users\TaylorJ\Desktop\Tabber\Tabber\obj\Release\Tabber.csprojAssemblyReference.cache
+C:\Users\TaylorJ\Desktop\Tabber\Tabber\obj\Release\Tabber.frmChyron.resources
+C:\Users\TaylorJ\Desktop\Tabber\Tabber\obj\Release\Tabber.frmEditFreq.resources
+C:\Users\TaylorJ\Desktop\Tabber\Tabber\obj\Release\Tabber.frmTab.resources
+C:\Users\TaylorJ\Desktop\Tabber\Tabber\obj\Release\Tabber.Properties.Resources.resources
+C:\Users\TaylorJ\Desktop\Tabber\Tabber\obj\Release\Tabber.csproj.GenerateResource.cache
+C:\Users\TaylorJ\Desktop\Tabber\Tabber\obj\Release\Tabber.csproj.CoreCompileInputs.cache
+C:\Users\TaylorJ\Desktop\Tabber\Tabber\obj\Release\Tabber.exe.manifest
+C:\Users\TaylorJ\Desktop\Tabber\Tabber\obj\Release\Tabber.application
+C:\Users\TaylorJ\Desktop\Tabber\Tabber\obj\Release\Tabber.exe
+C:\Users\TaylorJ\Desktop\Tabber\Tabber\obj\Release\Tabber.pdb

@@ -1,0 +1,69 @@
+C:\Users\TaylorJ\Desktop\SwapTest - Copy\SwapTest\obj\Debug\Tabber.csprojAssemblyReference.cache
+C:\Users\TaylorJ\Desktop\SwapTest - Copy\SwapTest\obj\Debug\Tabber.frmEditFreq.resources
+C:\Users\TaylorJ\Desktop\SwapTest - Copy\SwapTest\obj\Debug\Tabber.frmTab.resources
+C:\Users\TaylorJ\Desktop\SwapTest - Copy\SwapTest\obj\Debug\Tabber.Properties.Resources.resources
+C:\Users\TaylorJ\Desktop\SwapTest - Copy\SwapTest\obj\Debug\Tabber.csproj.GenerateResource.cache
+C:\Users\TaylorJ\Desktop\SwapTest - Copy\SwapTest\obj\Debug\Tabber.csproj.CoreCompileInputs.cache
+C:\Users\TaylorJ\Desktop\SwapTest - Copy\SwapTest\bin\Debug\Tabber.exe.config
+C:\Users\TaylorJ\Desktop\SwapTest - Copy\SwapTest\bin\Debug\Tabber.exe
+C:\Users\TaylorJ\Desktop\SwapTest - Copy\SwapTest\bin\Debug\Tabber.pdb
+C:\Users\TaylorJ\Desktop\SwapTest - Copy\SwapTest\obj\Debug\Tabber.exe
+C:\Users\TaylorJ\Desktop\SwapTest - Copy\SwapTest\obj\Debug\Tabber.pdb
+C:\Users\TaylorJ\Desktop\SwapTest - Copy\Tabber\bin\Debug\Tabber.exe.config
+C:\Users\TaylorJ\Desktop\SwapTest - Copy\Tabber\bin\Debug\Tabber.exe
+C:\Users\TaylorJ\Desktop\SwapTest - Copy\Tabber\bin\Debug\Tabber.pdb
+C:\Users\TaylorJ\Desktop\SwapTest - Copy\Tabber\obj\Debug\Tabber.csprojAssemblyReference.cache
+C:\Users\TaylorJ\Desktop\SwapTest - Copy\Tabber\obj\Debug\Tabber.frmEditFreq.resources
+C:\Users\TaylorJ\Desktop\SwapTest - Copy\Tabber\obj\Debug\Tabber.frmTab.resources
+C:\Users\TaylorJ\Desktop\SwapTest - Copy\Tabber\obj\Debug\Tabber.Properties.Resources.resources
+C:\Users\TaylorJ\Desktop\SwapTest - Copy\Tabber\obj\Debug\Tabber.csproj.GenerateResource.cache
+C:\Users\TaylorJ\Desktop\SwapTest - Copy\Tabber\obj\Debug\Tabber.csproj.CoreCompileInputs.cache
+C:\Users\TaylorJ\Desktop\SwapTest - Copy\Tabber\obj\Debug\Tabber.exe
+C:\Users\TaylorJ\Desktop\SwapTest - Copy\Tabber\obj\Debug\Tabber.pdb
+C:\Users\TaylorJ\Desktop\Tabber\Tabber\bin\Debug\Tabber.exe.config
+C:\Users\TaylorJ\Desktop\Tabber\Tabber\bin\Debug\Tabber.exe
+C:\Users\TaylorJ\Desktop\Tabber\Tabber\bin\Debug\Tabber.pdb
+C:\Users\TaylorJ\Desktop\Tabber\Tabber\obj\Debug\Tabber.frmEditFreq.resources
+C:\Users\TaylorJ\Desktop\Tabber\Tabber\obj\Debug\Tabber.frmTab.resources
+C:\Users\TaylorJ\Desktop\Tabber\Tabber\obj\Debug\Tabber.Properties.Resources.resources
+C:\Users\TaylorJ\Desktop\Tabber\Tabber\obj\Debug\Tabber.csproj.GenerateResource.cache
+C:\Users\TaylorJ\Desktop\Tabber\Tabber\obj\Debug\Tabber.csproj.CoreCompileInputs.cache
+C:\Users\TaylorJ\Desktop\Tabber\Tabber\obj\Debug\Tabber.exe
+C:\Users\TaylorJ\Desktop\Tabber\Tabber\obj\Debug\Tabber.pdb
+C:\Users\TaylorJ\Desktop\Tabber\Tabber\bin\Debug\Tabber.exe.manifest
+C:\Users\TaylorJ\Desktop\Tabber\Tabber\bin\Debug\Tabber.application
+C:\Users\TaylorJ\Desktop\Tabber\Tabber\obj\Debug\Tabber.exe.manifest
+C:\Users\TaylorJ\Desktop\Tabber\Tabber\obj\Debug\Tabber.application
+C:\Users\TaylorJ\Desktop\Tabber\Tabber\obj\Debug\Tabber.csprojAssemblyReference.cache
+C:\Users\TaylorJ\Desktop\Tabber - Copy\Tabber\bin\Debug\Tabber.exe.config
+C:\Users\TaylorJ\Desktop\Tabber - Copy\Tabber\bin\Debug\Tabber.exe.manifest
+C:\Users\TaylorJ\Desktop\Tabber - Copy\Tabber\bin\Debug\Tabber.application
+C:\Users\TaylorJ\Desktop\Tabber - Copy\Tabber\bin\Debug\Tabber.exe
+C:\Users\TaylorJ\Desktop\Tabber - Copy\Tabber\bin\Debug\Tabber.pdb
+C:\Users\TaylorJ\Desktop\Tabber - Copy\Tabber\obj\Debug\Tabber.csprojAssemblyReference.cache
+C:\Users\TaylorJ\Desktop\Tabber - Copy\Tabber\obj\Debug\Tabber.frmEditFreq.resources
+C:\Users\TaylorJ\Desktop\Tabber - Copy\Tabber\obj\Debug\Tabber.frmTab.resources
+C:\Users\TaylorJ\Desktop\Tabber - Copy\Tabber\obj\Debug\Tabber.Properties.Resources.resources
+C:\Users\TaylorJ\Desktop\Tabber - Copy\Tabber\obj\Debug\Tabber.csproj.GenerateResource.cache
+C:\Users\TaylorJ\Desktop\Tabber - Copy\Tabber\obj\Debug\Tabber.csproj.CoreCompileInputs.cache
+C:\Users\TaylorJ\Desktop\Tabber - Copy\Tabber\obj\Debug\Tabber.exe.manifest
+C:\Users\TaylorJ\Desktop\Tabber - Copy\Tabber\obj\Debug\Tabber.application
+C:\Users\TaylorJ\Desktop\Tabber - Copy\Tabber\obj\Debug\Tabber.exe
+C:\Users\TaylorJ\Desktop\Tabber - Copy\Tabber\obj\Debug\Tabber.pdb
+C:\Users\TaylorJ\Desktop\TabberTesting\Tabber\bin\Debug\Tabber.exe.config
+C:\Users\TaylorJ\Desktop\TabberTesting\Tabber\bin\Debug\Tabber.exe.manifest
+C:\Users\TaylorJ\Desktop\TabberTesting\Tabber\bin\Debug\Tabber.application
+C:\Users\TaylorJ\Desktop\TabberTesting\Tabber\bin\Debug\Tabber.exe
+C:\Users\TaylorJ\Desktop\TabberTesting\Tabber\bin\Debug\Tabber.pdb
+C:\Users\TaylorJ\Desktop\TabberTesting\Tabber\obj\Debug\Tabber.csprojAssemblyReference.cache
+C:\Users\TaylorJ\Desktop\TabberTesting\Tabber\obj\Debug\Tabber.frmEditFreq.resources
+C:\Users\TaylorJ\Desktop\TabberTesting\Tabber\obj\Debug\Tabber.frmTab.resources
+C:\Users\TaylorJ\Desktop\TabberTesting\Tabber\obj\Debug\Tabber.Properties.Resources.resources
+C:\Users\TaylorJ\Desktop\TabberTesting\Tabber\obj\Debug\Tabber.csproj.GenerateResource.cache
+C:\Users\TaylorJ\Desktop\TabberTesting\Tabber\obj\Debug\Tabber.csproj.CoreCompileInputs.cache
+C:\Users\TaylorJ\Desktop\TabberTesting\Tabber\obj\Debug\Tabber.exe.manifest
+C:\Users\TaylorJ\Desktop\TabberTesting\Tabber\obj\Debug\Tabber.application
+C:\Users\TaylorJ\Desktop\TabberTesting\Tabber\obj\Debug\Tabber.exe
+C:\Users\TaylorJ\Desktop\TabberTesting\Tabber\obj\Debug\Tabber.pdb
+C:\Users\TaylorJ\Desktop\TabberTesting\Tabber\obj\Debug\Tabber.frmChyron.resources
+C:\Users\TaylorJ\Desktop\Tabber\Tabber\obj\Debug\Tabber.frmChyron.resources
